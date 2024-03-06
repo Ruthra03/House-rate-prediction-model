@@ -1,1 +1,1 @@
-# House-rate-prediction-model
+This GitHub repository contains a Python script implementing a linear regression model for predicting house prices. The code utilizes gradient descent on standardized features and target values, includes convergence checks and early stopping, and outputs the final trained coefficients.
